@@ -13,6 +13,13 @@ This app is based on Laravel 5.3 framework, but improved with some minor tweaks,
 
 <strong>!!! This Repo is using PHP7 !!!</strong>
 
+## Get started
+
+1. Clone this repository
+2. Run Doctrine migrations `php artisan doctrine:migrations:migrate`
+3. Compile assets using gulp
+4. Open web in browser
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
